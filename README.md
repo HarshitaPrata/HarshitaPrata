@@ -14,8 +14,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with a strong foundation in Sta
 - ☁️ Eager to learn more about big data technologies and cloud-based analytics tools.
 - 💬 Ask me about Statistics, ML algorithms, SQL queries, and Power BI dashboards.
 - 📫 Reach out to me at: **sriharshita2001@gmail.com**
-- ⚡ Fun fact: I see datasets as stories waiting to be told with the right visual twist!
-
+- ⚡ Fun fact: I believe every dataset has a secret rhythm—statistical tools are just the way I tune into its music. 🎵📊
 ---
 
 ## 🌐 Socials
